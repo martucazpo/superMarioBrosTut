@@ -1,0 +1,23 @@
+{
+  "name": "supermariobrostut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martucazpo/superMarioBrosTut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martucazpo/superMarioBrosTut/issues"
+  },
+  "homepage": "https://github.com/martucazpo/superMarioBrosTut#readme",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
